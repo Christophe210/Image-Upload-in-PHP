@@ -1,3 +1,8 @@
+<!--  Author Name: Christophe Nshimiyimana.
+                        GigHub Link: https://github.com/Christophe210
+                        Visit My Website : tsindamedia.com -->
+
+
 <?php 
 // Specify the directory where the uploaded files will be stored
 $uploadDirectory = 'img/';
@@ -25,8 +30,8 @@ if (isset($_FILES['file']) && $_FILES['file']['error'] === UPLOAD_ERR_OK) {
 } else {
     echo 'No file uploaded.';
 }
-
-
-
-
 ?>
+
+<!--  Author Name: Christophe Nshimiyimana.
+                        GigHub Link: https://github.com/Christophe210
+                        Visit My Website : tsindamedia.com -->
